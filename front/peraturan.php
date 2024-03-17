@@ -381,7 +381,7 @@
      
     function getMenu(obj,link){
       $(".item-175").removeClass("active");
-      $.get("/regulasi/"+link+".php", function(data, status){
+      $.get("regulasi/"+link+".php", function(data, status){
         $('#t3-content').html(data);
         $(obj).addClass("active");
       });

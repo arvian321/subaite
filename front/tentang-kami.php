@@ -197,7 +197,7 @@
      
     function getMenu(obj,link){
       $(".item-175").removeClass("active");
-      $.get("/front/profile/"+link+".php", function(data, status){
+      $.get("profile/"+link+".php", function(data, status){
         $('#t3-content').html(data);
         $(obj).addClass("active");
       });

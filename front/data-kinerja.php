@@ -60,7 +60,7 @@
 <script type="text/javascript">
       function getMenu(obj, link) {
             $(".item-175").removeClass("active");
-            $.get("/kinerja/" + link + ".php", function(data, status) {
+            $.get("kinerja/" + link + ".php", function(data, status) {
                   $('#t3-content').html(data);
                   $(obj).addClass("active");
             });

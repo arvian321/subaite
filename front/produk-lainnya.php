@@ -160,7 +160,7 @@
      
     function getMenu(obj,link){
       $(".item-175").removeClass("active");
-      $.get("/lainnya/"+link+".php", function(data, status){
+      $.get("lainnya/"+link+".php", function(data, status){
         $('#t3-content').html(data);
         $(obj).addClass("active");
       });

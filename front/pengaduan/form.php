@@ -237,7 +237,7 @@
 
 									</div>
 								</div>
-								<div class="row-fluid">
+								<div class="row-fluid" style="display: none;">
 
 									<div
 										class="control-group fabrikElementContainer plg-dropdown fb_el_pengaduan___jenis_pengaduan   fabrikDataEmpty form-group  col-md-12">

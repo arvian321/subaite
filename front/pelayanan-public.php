@@ -28,7 +28,7 @@
      
     function getMenu(obj,link){
       $(".item-233").removeClass("filter-active");
-      $.get("/pelayanan/"+link+".php", function(data, status){
+      $.get("pelayanan/"+link+".php", function(data, status){
         $('#content-pelayanan').html(data);
         $(obj).addClass("filter-active");
       });
@@ -37,7 +37,7 @@
 
     function getMenu1(obj,link){
       $(".item-175").removeClass("active");
-      $.get("/standar-pelayanan/"+link+".php", function(data, status){
+      $.get("standar-pelayanan/"+link+".php", function(data, status){
         $('#t3-content').html(data);
         $(obj).addClass("active");
       });
@@ -45,7 +45,7 @@
 
     function getMenu2(obj,link){
       $(".item-512").removeClass("active");
-      $.get("/cild-pelayanan/"+link+".php", function(data, status){
+      $.get("cild-pelayanan/"+link+".php", function(data, status){
         $('#cild-pelayanan').html(data);
         $(obj).addClass("active");
       });

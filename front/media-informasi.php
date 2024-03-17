@@ -294,7 +294,7 @@
      
     function getMenu(obj,link){
       $(".item-233").removeClass("active");
-      $.get("/galeri/"+link+".php", function(data, status){
+      $.get("galeri/"+link+".php", function(data, status){
         $('#newsListDetail').html(data);
         $(obj).addClass("active");
       });
@@ -303,7 +303,7 @@
 
     function getMenu1(obj,link){
       $(".item-175").removeClass("active");
-      $.get("/standar-pelayanan/"+link+".php", function(data, status){
+      $.get("standar-pelayanan/"+link+".php", function(data, status){
         $('#t3-content').html(data);
         $(obj).addClass("active");
       });
@@ -311,7 +311,7 @@
 
     function getMenu2(obj,link){
       $(".item-512").removeClass("active");
-      $.get("/cild-pelayanan/"+link+".php", function(data, status){
+      $.get("cild-pelayanan/"+link+".php", function(data, status){
         $('#cild-pelayanan').html(data);
         $(obj).addClass("active");
       });
