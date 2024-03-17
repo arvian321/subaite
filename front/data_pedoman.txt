@@ -1,0 +1,15 @@
+const pedoman = [
+        {
+            image:'Pedoman (0)-01',
+            judul: 'Pedoman Mitigasi Risiko 3-MCPDE dan GE pada Minyak Goreng Sawit',
+            file: 'https://standarpangan.pom.go.id/dokumen/pedoman/Pedoman_Mitigasi_Risiko_3-MCPDE_GE.pdf',
+            tahun: '2023'
+        },
+        {
+            image:'Pedoman (0)-02',
+            judul: 'Pedoman Mitigasi Risiko Keberadaan Residu Antibiotik dan Mikrob Resistan Antibiotik pada Pangan Olahan',
+            file: 'https://standarpangan.pom.go.id/dokumen/pedoman/Pedoman_Mitigasi_Risiko_Keberadaan_Residu_Antibiotik_dan_Mikrob_Resistan_Antibiotik_pada_Pangan_Olahan.pdf',
+            tahun: '2023'
+        },
+        // Tambahkan pedoman lainnya di sini
+    ];
