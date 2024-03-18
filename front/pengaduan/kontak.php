@@ -16,7 +16,7 @@
 						    <meta content="2018-10-02T16:59:32+07:00" itemprop="datePublished">
 
 						    <span itemprop="author" style="display: none;">
-						      <span itemprop="name">Sabo Hermawan</span>
+						      <span itemprop="name">Wahyu Linanto</span>
 						      <span itemtype="https://schema.org/Organization" itemscope="" itemprop="publisher" style="display: none;">
 						        <span itemtype="https://schema.org/ImageObject" itemscope="" itemprop="logo">
 						          <img itemprop="url" alt="logo"
@@ -24,7 +24,7 @@
 						          <meta content="auto" itemprop="width">
 						          <meta content="auto" itemprop="height">
 						        </span>
-						        <meta content="Sabo Hermawan" itemprop="name">
+						        <meta content="wahyu linanto" itemprop="name">
 						      </span>
 						    </span>
 						    <!--e:Validate structured data-->
