@@ -30,7 +30,7 @@
                 <meta content="2017-06-12T13:26:14+07:00" itemprop="datePublished">
             
               <span itemprop="author" style="display: none;">
-              <span itemprop="name">Sabo Hermawan</span>
+              <span itemprop="name">wahyu linanto</span>
               <span itemtype="https://schema.org/Organization" itemscope="" itemprop="publisher" style="display: none;">
                 <span itemtype="https://schema.org/ImageObject" itemscope="" itemprop="logo">
                   <img itemprop="url" alt="logo" src="https://standarpangan.pom.go.id//templates/ja_company/images/logo.png">
